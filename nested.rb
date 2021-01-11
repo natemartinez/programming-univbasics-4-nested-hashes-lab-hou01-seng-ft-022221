@@ -66,7 +66,9 @@ def adding_matz
 # }
 # return the entire updated hash
 
-
+ :grace_hopper => {
+        :known_for => "COBOL",
+        :languages => ["COBOL", "FORTRAN"]
       },
       :alan_kay => {
         :known_for => "Object Orientation",
