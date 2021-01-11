@@ -66,7 +66,7 @@ def adding_matz
 # }
 # return the entire updated hash
 
-}:languages => ["COBOL", "FORTRAN"]
+
       },
       :alan_kay => {
         :known_for => "Object Orientation",
