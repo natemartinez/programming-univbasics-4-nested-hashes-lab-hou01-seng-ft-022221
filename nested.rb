@@ -66,7 +66,8 @@ def adding_matz
 # }
 # return the entire updated hash
 
- :grace_hopper => {
+ programmer_hash => {
+   :grace_hopper => {
         :known_for => "COBOL",
         :languages => ["COBOL", "FORTRAN"]
       },
